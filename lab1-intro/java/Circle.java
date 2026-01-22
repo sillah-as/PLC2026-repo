@@ -11,7 +11,7 @@ class Circle {
   public Circle(int size) {
     this.size = size;
   }
-
+//just testing savinhg mechanism
   private int size;
 
   private String circleLine(int i){
